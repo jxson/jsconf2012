@@ -1,4 +1,4 @@
-# NOTCONF 2:00-2:30  PAOLO FRAGOMENI
+# NOTCONF: 2:00-2:30  PAOLO FRAGOMENI
 
 > Deep inspection of the operating system and its processes in realtime using JavaScript. As well as several other unexpected uses of our favorite yet unusual language.
 
@@ -22,3 +22,9 @@ I take this to mean that monitoring at arbitrary points wont help you figure out
 You can use json streams in DTrace scripts.
 
 @h1j1nx use SystemTap where DTrace is unavailable, DTrace is available on osx and smartOS.
+
+# NOTCONF: BRIAN LEROUX on using Weinre
+
+Awesome for debugging mobile web apps
+
+* http://phonegap.github.com/weinre/
