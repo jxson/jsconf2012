@@ -56,8 +56,21 @@ Does your lib holdup to other people's linters? Will it break if concatenated an
 
 Do you want elite code practices that exclude potential authors or users, or do you want a library that is more inclusive and has more potential for adoption and contributions?
 
+# NOTCONF: 4:00-4:30  CHRIS WILLIAMS
+
+> How to attend a conference. No seriously, stop spending money attending shitty conferences and attend awesome ones.
+
+Go home and set up your own conference. How to not put on a typical event. Stop going to confs that cost a lot of money. When confs become businesses our only vote is our dollars, confs should be community events not profitable ventures.
+
+Community events are vitally important to the ecosystem. Domain speciality is not required to put on an event.
+
+Talking about conferences that cost a ton of money: instead spend the money to fly to the place, stay with friends, save your money. Find people who went and make some friends. Turn confs into community events! Go out and find the speakers, go to the parties, find the speakers and ask them to go to the "other bar". The "other bar" is a chill place where you can talk, establish relationships, etc.
+
+Don't let "regurgitation events" take over, don't pay for things that you can just watch on the internet. We need events that bring to bear new talent and technology that try to make us better. Speaking needs to be done on new topics, not the same things over and over. This should be about starting a dialog.
+
 [hij1nx]: https://twitter.com/#!/Hij1nx
 [dtrace]: http://dtrace.org/blogs/
 [systemtap]: http://en.wikipedia.org/wiki/SystemTap
 [darthBurrit0]: https://twitter.com/#!/DarthBurrit0
 [pamelafox]: https://twitter.com/#!/pamelafox
+[chris]: https://twitter.com/#!/voodootikigod
