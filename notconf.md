@@ -2,8 +2,6 @@
 
 > Deep inspection of the operating system and its processes in realtime using JavaScript. As well as several other unexpected uses of our favorite yet unusual language.
 
-spire should define upfront what it means by realtime, when realtime is appropriate. When there is latency the experience should degrade and not cause a catastrophic failure.
-
 use DTrace for holistic instrumentation, there are node bindings for DTrace.
 
 * https://github.com/bcantrill/node-libDTrace
@@ -21,10 +19,15 @@ I take this to mean that monitoring at arbitrary points wont help you figure out
 
 You can use json streams in DTrace scripts.
 
-@h1j1nx use SystemTap where DTrace is unavailable, DTrace is available on osx and smartOS.
+[@hij1nx][hij1nx] mentioned trying to use SystemTap where DTrace is unavailable, DTrace is available on osx and smartOS.
 
 # NOTCONF: BRIAN LEROUX on using Weinre
 
 Awesome for debugging mobile web apps
 
 * http://phonegap.github.com/weinre/
+
+
+[hij1nx]: https://twitter.com/#!/Hij1nx
+[dtrace]: http://dtrace.org/blogs/
+[systemtap]: http://en.wikipedia.org/wiki/SystemTap
