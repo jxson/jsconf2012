@@ -38,6 +38,17 @@ It happens to be much faster. This helps out in situations where native code isn
 
 http://wingolog.com
 
+# JSCONF DAY 1: Paul Irish - JavaScript Tooling
+
+Tools around rich web app development.
+
+We are speinding too much time around common tasks, we should avoid spinning our wheels and instead work on the experience we create.
+
+Tools like css and template compilers help a bit. Languages that compile to JS can also help.
+
+On iteration and workflow new tools in chrome's dev tools help. Source maps will help debug things like minified JS, CoffeeScript, less, stylus: anything that has a source map.
+
+Look up grunt
 
 
 [river]: #
