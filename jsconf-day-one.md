@@ -17,4 +17,27 @@ They are really interested on getting feedback from developers on this new exten
 
 River Trail is available as a Firefox extension for anyone who would like to play with it.
 
+# JSCONF DAY 1: Andy Wingo - Stranger in These Parts
+
+Andy is a compiler nerd who works for Igalia, he has been working on JavaScript core and V8.
+
+Languages are tribal, they have elders, in group - out group.
+
+Look up DFG and LLInt.
+
+JIT compilation is a speculative optimization. LLInt is the new low level interpreter for JS core that was rewritten and has parts in Ruby.
+
+Lazy bytecompilation parses the bytecode on the first call.
+
+## Why was JS core rewritten?
+
+* Control of stack layout
+* Control of code
+
+It happens to be much faster. This helps out in situations where native code isn't allowed to be compiled from your application (ios), having a faster JS interpreter helps in these situations.
+
+http://wingolog.com
+
+
+
 [river]: #
