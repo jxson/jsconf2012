@@ -128,9 +128,33 @@ If we aren't careful about the chain of evidence we make it hard for people to u
 
 It's important to understand and learn about concurrency, you don't have to pick a single approach just understand what is out there and the tradeoffs involved.
 
-# JSCONF DAY 2: Kristin Arnold - Conversational Dialogs
-
 # JSCONF DAY 2: James Whelton - Changing the world one CoderDojo at a time
+
+He is the head of CoderDojo which is like "the boyscouts of coding".
+
+There was no introduction to computers until college and that had a 70% dropout. CoderDojo was born out of the frustration of the lack of coding in the education system. He wanted to make a "fight club" with keyboards.
+
+Coder dojo:
+
+* bring a parent if 12 or under
+* loose session, self led learning
+* relaxed atmosphere
+* one rule: be cool
+* kept money out of it
+* got kids to bring their own laptops do kids could hack on their own machines at home
+* get kids teaching other kids
+
+To start it takes:
+
+* Space
+* Chairs and tables
+
+The future of CoderDojo:
+
+* improve infrastructure
+* open data
+* more tools
+* more badges
 
 # JSCONF DAY 2: Jacob Thornton - Brûlons les musées
 
