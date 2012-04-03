@@ -48,3 +48,47 @@ The application cache doesn't like stuff thats not in the cache. Make sure to ad
 App Cache has no clean up mechanism; no update or create without also caching the host page.
 
 A hackey workaround is to create an offline.html page and load it on every page with an iframe.
+
+# JSCONF DAY 2: Jarred Nicholls - JS on the GPU
+
+He works at Sencha and is a webkit committer and a coauthor of the w3c web cryptography API (not yet released).
+
+Running on the GPU is important for parallelization of computing. Why the GPU?
+
+* It's fast, and geared towards parallel computing
+* High memory bandwidth
+* Specialized to mathematical operations
+
+LateralJS is the library he made to experiment with this targeting OpenCL. They wanted full JS support for the project so they wrote a JS interpreter in OpneCL C.
+
+OpenCL headaches:
+
+* multiple memory spaces
+* no recursion
+* no standing libc libraries
+* no dynamic memory
+* no standard data structures
+* buggy AMD/Nvidia compilers
+
+Uses Esprima in V8 to get the AST.
+
+# JSCONF DAY 2: Project Bikeshed
+
+bikeshed.js server side conversion of flash to JS.
+
+Things you can do:
+
+* You can make a simple turn based game
+* The renderer can stream from the server
+* Reuse existing flash content
+* Edit existing flash content
+
+They convert flash 9 & 10 and actionscript 3.
+
+
+
+
+
+- - -
+
+cross reference with http://trevmex.com/
