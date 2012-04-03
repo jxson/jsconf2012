@@ -74,6 +74,8 @@ Uses Esprima in V8 to get the AST.
 
 # JSCONF DAY 2: Project Bikeshed
 
+http://bike.sh/
+
 bikeshed.js server side conversion of flash to JS.
 
 Things you can do:
@@ -85,9 +87,54 @@ Things you can do:
 
 They convert flash 9 & 10 and actionscript 3.
 
+# JSCONF DAY 2: Christopher Chedeau - JSPP and the marriage of C++ and JS
 
+You can write C++ and write it like it was JS.
 
+He got JSON working in C++.
 
+# JSCONF DAY 2: Brian Ford - Node.js
+
+Is node.js better?
+
+Organizations tend to perpetuate the problem they were created to solve.
+
+* There are people who are afraid of change
+* There are people who make change
+
+node.js and JS in general are subversive, they are pushing change. When you put things in contrast when you compare them, controversy is entertaining, advocacy is criticism (when you say something is good you are saying somethign else is bad).
+
+* Advocates are fanboys
+* Critics are trolls?
+
+We are not good at conflict, how do we improve dealing with conflict? Using science?
+
+The correlation of the Q factor to the success of a broadway musical suggests that collaborating and challenge each other increases the likelihood of success.
+
+Read "Thinking Fast and Slow". The slow deliberate part of our brain can be easily mislead, especially if you are uncomfortable. Programming is a behavioral science, a discipline where you use observation to solve problems. Programmers need to learn research methods so they can better arrive at valid solutions.
+
+People are selfish, lazy, and easily bored.
+
+Events vs threads is really apples and oranges. The fundamental technology underlying them is the same, its the implementation that causes the differences.
+
+Computer literacy is the literacy of this century, claiming a technology is better because it has more people using it doesn't mean that it correlates to more people writing good solutions. We are trying to be effective at solving hard problems.
+
+node.js rejects reality; multicore is the future, ignoring the ability to use multiple cores in a single process is ignoring this. An entire ecosystem of tools and libs must be created to approach new problems that JS was not intended for, not that JS can't - it's just missing the toolsets and libraries.
+
+* Symmetric errors: are errors that you can track down
+* Chain of errors: errors that can be tracked down
+
+If we aren't careful about the chain of evidence we make it hard for people to understand and debug, we make it hard for them to solve problems.
+
+It's important to understand and learn about concurrency, you don't have to pick a single approach just understand what is out there and the tradeoffs involved.
+
+# JSCONF DAY 2: Kristin Arnold - Conversational Dialogs
+
+# JSCONF DAY 2: James Whelton - Changing the world one CoderDojo at a time
+
+# JSCONF DAY 2: Jacob Thornton - Brûlons les musées
+
+# JSCONF DAY 2: Rick Falkvinge - Politics
 
 - - -
 
