@@ -156,9 +156,18 @@ The future of CoderDojo:
 * more tools
 * more badges
 
-# JSCONF DAY 2: Jacob Thornton - Brûlons les musées
+# JSCONF DAY 2: Jacob Thornton - Brûlons les musées (burning down museums)
+
+@fat author of bootstrap works at twitter and works on bootstrap, ender, hogan.js.
+
+
+Eliminate the past. Read the futurists manifesto...
+
+I got sucked into this talk and didn't take good notes, check out the video: #
 
 # JSCONF DAY 2: Rick Falkvinge - Politics
+
+The final talk.
 
 - - -
 
